@@ -1,0 +1,14 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 500;
+    background-color: grey;
+}
+
+.pic1{
+    max-width: 100% !important;
+    filter: grayscale(100%) brightness(0) invert(100%);;
+}
+
+.icon{
+    width: 35px;
+}
